@@ -5,7 +5,7 @@
 
 # Aplicación Angular - Acceso a Pagina restringida con Auth0 
 
-Proyecto página restringida con uso de Guards y Auth0, Elaborado en [Angular CLI](https://github.com/angular/angular-cli) version 8.3.0, Typescript, Bootstrap 4, Auth0.
+Proyecto login de acceso a página restringida con uso de Guards y Auth0, Elaborado en [Angular CLI](https://github.com/angular/angular-cli) version 8.3.0, Typescript, Bootstrap 4, Auth0.
 
 
 [DEMO](https://github.com/rgomez2978/angular-login-auth0-app)
