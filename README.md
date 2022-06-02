@@ -29,7 +29,7 @@ A continuación se indican las librerias necesarias para la ejecución del proye
 
 Ejecute el comando `ng build` para exportar el proyecto. Al exportar el proyecto se almacenarán en el directorio `docs/`. Utilice el flag `--base-href` para exportar hacia produccion.
 
-    ng buil --base-href=https://github.com/rgomez2978/angular-login-auth0-app/
+    ng build --base-href=https://github.com/rgomez2978/angular-login-auth0-app/
 
 
 
